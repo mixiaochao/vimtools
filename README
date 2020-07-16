@@ -1,0 +1,14 @@
+
+
+linux环境下查看源码的vim编辑器插件安装配置及使用
+
+#涉及插件到的插件安装配置及使用总结
+taglist_cscope_ctags_readme.txt
+
+#用于拷贝成.vimrc的现成配置文件
+vimrc_bak
+
+#taglist插件压缩包
+taglist_46.zip
+
+by xiaochaomi
